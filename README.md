@@ -134,7 +134,8 @@ dz>
 
 Cette invite confirme que Drozer est bien connecté à l’émulateur.
 
-<img width="668" height="237" alt="image" src="https://github.com/user-attachments/assets/b6a8e3ba-0db0-452b-8a3b-b6af909e6332" />
+<img width="556" height="242" alt="image" src="https://github.com/user-attachments/assets/4bb8a5e5-3796-484c-a701-a90c04750cdf" />
+
 
 <img width="668" height="105" alt="image" src="https://github.com/user-attachments/assets/4e644805-5f44-4fae-94a3-4c95e441aefc" />
 
